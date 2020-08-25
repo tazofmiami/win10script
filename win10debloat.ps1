@@ -35,6 +35,8 @@ $tweaks = @(
 	"Install7Zip",
 	#"InstallNotepadplusplus",
 	"InstallMediaPlayerClassic",
+	"Installgooglechrome",
+	"reddit-wallpaper-changer",
 
 	### Windows Apps
 	"DebloatAll",
@@ -224,6 +226,16 @@ Function InstallNotepadplusplus {
 Function InstallMediaPlayerClassic {
 	Write-Output "Installing Media Player Classic (VLC Alternative)"
 	choco install mpc-hc -y
+}
+
+Function Installgooglechrome {
+	Write-Output "Installing Media Player Classic (VLC Alternative)"
+	choco install googlechrome -y
+}
+
+Function reddit-wallpaper-changer {
+	Write-Output "Installing Media Player Classic (VLC Alternative)"
+	choco install reddit-wallpaper-changer -y
 }
 
 ##########
