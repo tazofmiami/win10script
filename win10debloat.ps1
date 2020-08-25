@@ -37,6 +37,7 @@ $tweaks = @(
 	"InstallMediaPlayerClassic",
 	"Installgooglechrome",
 	"reddit-wallpaper-changer",
+	"zoom",
 
 	### Windows Apps
 	"DebloatAll",
@@ -236,6 +237,11 @@ Function Installgooglechrome {
 Function reddit-wallpaper-changer {
 	Write-Output "Installing Media Player Classic (VLC Alternative)"
 	choco install reddit-wallpaper-changer -y
+}
+
+Function zoom {
+	Write-Output "Installing Media Player Classic (VLC Alternative)"
+	choco install zoom -y
 }
 
 ##########
