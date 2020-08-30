@@ -36,8 +36,8 @@ $tweaks = @(
 	#"InstallNotepadplusplus",
 	"InstallMediaPlayerClassic",
 	"Installgooglechrome",
-	"reddit-wallpaper-changer",
-	"zoom",
+	#"reddit-wallpaper-changer",
+	#"zoom",
 
 	### Windows Apps
 	"DebloatAll",
