@@ -34,7 +34,7 @@ $tweaks = @(
 	"InstallAdobe",
 	"Install7Zip",
 	#"InstallNotepadplusplus",
-	"InstallMediaPlayerClassic",
+	#"InstallMediaPlayerClassic",
 	"Installgooglechrome",
 	#"reddit-wallpaper-changer",
 	#"zoom",
@@ -154,8 +154,8 @@ $tweaks = @(
 	# "DisableThumbsDB",              # "EnableThumbsDB",
 
 	### Application Tweaks ###
-	"DisableOneDrive",              # "EnableOneDrive",
-	"UninstallOneDrive",            # "InstallOneDrive",
+	#"DisableOneDrive",              # "EnableOneDrive",
+	#"UninstallOneDrive",            # "InstallOneDrive",
 	"UninstallMsftBloat",           # "InstallMsftBloat",
 	"UninstallThirdPartyBloat",     # "InstallThirdPartyBloat",
 	# "UninstallWindowsStore",      # "InstallWindowsStore",
