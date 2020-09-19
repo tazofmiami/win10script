@@ -32,12 +32,12 @@ $tweaks = @(
 	### External Program Setup
 	"InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
 	#"InstallAdobe",
-	#"Install7Zip",
+	"Install7Zip",
 	#"InstallNotepadplusplus",
 	#"InstallMediaPlayerClassic",
 	#"Installgooglechrome",
 	#"reddit-wallpaper-changer",
-	"zoom",
+	#"zoom",
 
 	### Windows Apps
 	"DebloatAll",
@@ -65,7 +65,7 @@ $tweaks = @(
 	"SetUACLow",                  # "SetUACHigh",
 	# "EnableSharingMappedDrives",  # "DisableSharingMappedDrives",
 	# "DisableAdminShares",           # "EnableAdminShares",
-	#"DisableSMB1",                # "EnableSMB1",
+	# "DisableSMB1",                # "EnableSMB1",
 	# "DisableSMBServer",           # "EnableSMBServer",
 	# "DisableLLMNR",               # "EnableLLMNR",
 	"SetCurrentNetworkPrivate",     # "SetCurrentNetworkPublic",
