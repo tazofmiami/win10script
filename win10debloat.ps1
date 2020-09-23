@@ -32,12 +32,12 @@ $tweaks = @(
 	### External Program Setup
 	"InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
 	#"InstallAdobe",
-	"Install7Zip",
+	#"Install7Zip",
 	#"InstallNotepadplusplus",
 	#"InstallMediaPlayerClassic",
 	#"Installgooglechrome",
 	#"reddit-wallpaper-changer",
-	#"zoom",
+	"zoom",
 
 	### Windows Apps
 	"DebloatAll",
