@@ -31,11 +31,11 @@ $tweaks = @(
 
 	### External Program Setup
 	"InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
-	#"InstallAdobe",
-	#"Install7Zip",
+	"InstallAdobe",
+	"Install7Zip",
 	#"InstallNotepadplusplus",
 	#"InstallMediaPlayerClassic",
-	#"Installgooglechrome",
+	"Installgooglechrome",
 	#"reddit-wallpaper-changer",
 	"zoom",
 
