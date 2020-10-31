@@ -34,7 +34,7 @@ $tweaks = @(
 	"InstallAdobe",
 	"Install7Zip",
 	#"InstallNotepadplusplus",
-	#"InstallMediaPlayerClassic",
+	"InstallMediaPlayerClassic",
 	"Installgooglechrome",
 	#"reddit-wallpaper-changer",
 	"zoom",
